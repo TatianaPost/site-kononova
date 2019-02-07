@@ -1,0 +1,1157 @@
+@media only screen and (min-height: 670px) {
+    #sec2 .block-l {
+        width: 520px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        align-items: center;
+        height: auto;
+        position: relative;
+    }
+}
+
+@media (max-height: 650px) {
+    .block-r .h2-title {
+        padding-top: 15px;
+        width: 100%;
+    }
+    .kate-list {
+        padding-top: 26px;
+    }
+    #slider-list {
+        padding-top: 20px;
+    }
+    .kate-list ul li {
+        line-height: 24px;
+        font-size: 15px;
+    }
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 1150px){
+    .section-content {
+        padding: 0px 50px;
+    }
+    .client-slide-text {
+        min-height: 370px;
+    }
+    .client-slide-descr {
+        max-width: 295px;
+    }
+    .first-main {
+        width: 100%;
+        padding: 0 35px;
+        box-sizing: border-box;
+    }
+    .wrap{
+        padding: 30px 0;
+        box-sizing: border-box;
+    }
+    .faq-description-block p {
+        font-size: 18px;
+        line-height: 27px;
+        padding-left: 0px;
+    }
+    .faq-list-block a:hover, .faq-list-block.active a {
+        font-size: 18px;
+    }
+    .faq-list-block a {
+        font-size: 16px;
+        line-height: 1;
+    }
+    .faq-description {
+        padding: 40px 25px 40px 0;
+    }
+    .section-content-seс8 {
+        padding-top: 70px;
+    }
+}
+@media only screen and (max-width : 992px){
+    .block-date-sec5 img {
+        display: none;
+    }
+    #sec2 .wrap{
+        height: auto;
+    }
+    .block-date p {
+        font-size: 33px;
+        padding-left: 65px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    .tab-list-name {
+        width: 558px;
+        height: 28px;
+    }
+    .tab-list-name p {
+        font-size: 15px;
+    }
+    .tab-list-name h3 {
+        font-size: 16px;
+    }
+    .tarif-block {
+        height: auto;
+    }
+    .tarif h3 {
+        font-size: 35px;
+        padding-top: 33px;
+        height: 120px;
+    }
+    .btn-buy {
+        padding-top: 33px;
+        padding-bottom: 30px;
+    }
+    .tarif p.cost {
+        font-size: 27px;
+    }
+    .dop-cost {
+        padding-top: 30px;
+    }
+    .dop-cost-block h4 {
+        font-size: 19px;
+    }
+    .discount {
+        width: 56%;
+        padding: 10px;
+        padding-left: 42px;
+        box-sizing: border-box;
+    }
+    .dop-cost-block {
+        padding: 20px 30px;
+        width: 48%;
+    }
+    .contect-block {
+        padding-top: 25px;
+    }
+    .programm-list, .section-content-sec5 {
+        min-height: 419px;
+    }
+    .popup-wrap {
+        max-width: 730px;
+    }
+    .client-popup{
+        max-width: 100%;
+    }
+    .grafic-table tr:first-child td:not(:first-child) {
+        font-size: 25px;
+    }
+    .grafic-table tr td {
+        font-size: 18px;
+        height: 52px;
+    }
+    .tarif-popup-name-block h3 {
+        font-size: 28px;
+    }
+    .tarif-popup-name-block p {
+        font-size: 19px;
+        background-image: url(../img/gradient_cost_popup.png);
+        background-size: cover;
+        padding: 5px 0;
+    }
+    .tarif-popup-name-list ul li {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .tarif-popup-questions p {
+        font-size: 14px;
+        line-height: 20px;
+        padding-left: 15px;
+    }
+    .tarif-popup-name-block-wrap {
+        width: 330px;
+        padding-left: 0;
+    }
+    input {
+        font-size: 14px;
+    }
+    .tarif-popup-forms-block-wrap h4 {
+        font-size: 18px;
+    }
+    .tarif-popup-forms-block-wrap {
+        padding-right: 30px;
+    }
+    button {
+        font-size: 14px;
+    }
+    #sec2 .block-l {
+        width: 40%;
+    }
+    #sec2 .block-r {
+        width: 60%;
+    }
+    .block-r .h2-title {
+        width: 100%;
+    }
+    .block-r .h2-title p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .kate-list ul li {
+        line-height: 24px;
+        font-size: 15px;
+    }
+    .block-contacts .contacts h3 {
+        font-size: 18px;
+        padding-bottom: 17px;
+    }
+    .block-contacts .contacts p {
+        font-size: 15px;
+        line-height: 1.2;
+    }
+    .block-contacts .contacts p a {
+        font-size: 15px;
+    }
+    .first-main-bg {
+        height: 80vh;
+    }
+    .forms-organizations a {
+        font-size: 16px;
+    }
+    .what-list-block {
+        width: 46%;
+    }
+    #sec10 .wrap,
+    #sec7 .wrap{
+        height: auto;
+    }
+}
+
+@media only screen and (max-width : 900px){
+    #sec2 .block-r {
+        max-width: 80%;
+        width: 100%;
+        padding-bottom: 70px;
+    }
+    .partners-logo-block {
+        width: 14%;
+    }
+    #sec2 .section-content.flex {
+        flex-direction: column;
+    }
+    #sec2 .block-l {
+        width: 50%;
+        padding-bottom: 30px;
+    }
+    .block-date p {
+        font-size: 23px;
+        padding-left: 37px;
+    }
+    .dop-cost-block h4 {
+        font-size: 15px;
+    }
+    .tarif h3 {
+        font-size: 28px;
+        padding-top: 25px;
+        height: 102px;
+    }
+    .tarif p.cost {
+        font-size: 23px;
+    }
+    .btn-enroll a,
+    .btn-buy a {
+        font-size: 15px;
+        line-height: 38px;
+        height: 38px;
+        width: 140px;
+    }
+    .dop-cost-block {
+        padding: 15px 25px;
+        width: 48%;
+    }
+    .discount {
+        width: 70%;
+        padding: 10px;
+        padding-left: 28px;
+        box-sizing: border-box;
+    }
+    .discount p {
+        padding-top: 15px;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width : 800px){
+    h2 {
+        font-size: 27px;
+    }
+    .top-line {
+        padding: 15px 15px 0;
+    }
+    .logo img {
+        height: auto;
+        width: 100px;
+        color: #FFFFFF;
+    }
+    .block-date-sec5 {
+        display: none;
+    }
+    .dop-cost-grafic-img {
+        max-width: 68px;
+    }
+    .discount p {
+        font-size: 13px;
+    }
+    .dop-cost .btn-enroll {
+        padding-top: 15px;
+    }
+    .block-contacts {
+        width: 53%;
+    }
+    .date-first p {
+        font-size: 22px;
+        padding: 22px 56px;
+    }
+    .dop-descr p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .first-main-bg {
+        height: 68vh;
+        max-height: 400px;
+    }
+    .faq-list-block a:hover, .faq-list-block.active a {
+        font-size: 16px;
+    }
+    .faq-list-block a {
+        font-size: 15px;
+    }
+    .faq-description {
+        padding: 40px 0px 40px 0;
+        width: 80%;
+    }
+    .faq-list-block span > span {
+        width: 20px;
+        margin: 3px 10px;
+    }
+}
+
+@media only screen and (max-width : 700px){
+    .faq-list-block a {
+        pointer-events: none;
+    }
+    .section-content {
+        padding: 35px 10px;
+        box-sizing: border-box;
+    }
+    #fp-nav.right {
+        right: 0px;
+    }
+    .socials {
+        padding: 0 15px 10px;
+    }
+    .socials img {
+        height: 17px;
+    }
+    h2 {
+        font-size: 23px;
+    }
+    .dop-descr p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .date-first p {
+        font-size: 21px;
+        padding: 15px 46px;
+    }
+    .first-main-bg {
+        max-height: 375px;
+    }
+    .btn-enroll a, .btn-buy a {
+        font-size: 14px;
+        line-height: 36px;
+        height: 36px;
+        width: 130px;
+    }
+    .block-r .h2-title p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .kate-list {
+        padding-top: 15px;
+    }
+    .kate-list ul li {
+        line-height: 22px;
+        font-size: 14px;
+    }
+    .programm-list, .section-content-sec5 {
+        min-height: 200px;
+    }
+    .tab-list-name p {
+        font-size: 14px;
+    }
+    .tab-list-name p {
+        width: auto;
+        padding-left: 10px;
+        padding-right: 5px;
+    }
+    .tab-list-name h3 {
+        padding-left: 5px;
+    }
+    .tab-list-name {
+        width: 100%;
+        height: 26px;
+    }
+    .tab-list-descr {
+        padding-left: 71px;
+    }
+    .tab-list-descr h4, .tab-list-descr p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .tab-list-descr ul li {
+        line-height: 22px;
+        font-size: 14px;
+    }
+    .programm-list, .section-content-sec5 {
+        width: 96%;
+    }
+    .section-content-sec5{
+        padding: 35px 0;
+    }
+    .section-content-sec6 {
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+    .tarif-block {
+        width: 32%;
+    }
+    .dop-cost {
+        padding-top: 10px;
+    }
+    .dop-cost-block {
+        padding: 10px 20px;
+        width: 49%;
+    }
+    .discount {
+        padding: 10px;
+        padding-left: 19px;
+        padding-right: 0px;
+    }
+    .block-contacts {
+        padding-left: 0px;
+    }
+    .block-contacts h2 {
+        padding-bottom: 20px;
+    }
+    .block-contacts .contacts h3 {
+        font-size: 16px;
+        padding-bottom: 14px;
+    }
+    .block-contacts .contacts p {
+        font-size: 14px;
+        line-height: 1;
+    }
+    .block-contacts .contacts {
+        padding-bottom: 20px;
+    }
+    .block-contacts .contacts p a {
+        font-size: 14px;
+    }
+    .tarif-popup-name-list ul {
+        padding-left: 20px;
+    }
+    .tarif-popup-name-list ul li {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .tarif-popup-name-block-wrap {
+        width: 290px;
+        padding-left: 0;
+    }
+    .tarif-popup-questions p {
+        font-size: 12px;
+        line-height: 17px;
+        padding-left: 5px;
+    }
+    .tarif-popup-questions p br{
+        display: none;
+    }
+    .popup-wrap .mfp-close, .popup-wrap .mfp-close:active {
+        right: 20px;
+        top: 20px;
+    }
+    .tarif-popup-forms-block-wrap h4 {
+        font-size: 16px;
+    }
+    .forms-organizations a {
+        font-size: 14px;
+    }
+    .tarif-popup-forms-block{
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    .oplata p {
+        padding-left: 3px;
+        font-size: 13px;
+    }
+    .tarif-popup-forms-block-wrap {
+        padding: 40px 25px;
+        padding-right: 10px;
+    }
+    form button {
+        font-size: 14px;
+        line-height: 40px;
+        height: 40px;
+        padding: 0 20px;
+    }
+    .tarif-popup-wrap {
+        min-height: 460px;
+    }
+    .partners-descr p {
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+    }
+    .who-list-block,
+    .what-list-block {
+        width: 100%;
+        margin: 20px;
+    }
+    .client-popup-bg{
+        background-image: none;
+    }
+    .adaptive-img{
+        display: block;
+    }
+    .faq-wrap {
+        flex-direction: column;
+    }
+    .faq-description {
+        margin-top: 20px;
+        width: 100%;
+    }
+    .faq-descr-block {
+        padding-bottom: 40px;
+    }
+    .section-content-seс8 {
+        min-height: 460px;
+    }
+    .who-list-block:before{
+        width: 60px !important;
+        height: 60px !important;
+        background-size: cover;
+        left: 5px !important;
+    }
+}
+
+@media only screen and (max-width : 600px){
+    .menu-list a {
+        font-size: 23px;
+    }
+    .menu-list span {
+        font-size: 23px;
+        line-height: 23px;
+    }
+    /*.menu-list li:first-child span span {*/
+        /*margin-left: 20px;*/
+    /*}*/
+    .menu-list span span {
+        width: 40px;
+        margin: 8px 14px;
+    }
+    .menu-list li {
+        margin: 20px 0;
+    }
+    .menu-list a:hover:before {
+        content: "";
+        background-image: url(../img/menu_hover.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 48px;
+        position: absolute;
+        left: -70px;
+        right: 0;
+        top: -4px;
+        z-index: -1;
+        opacity: 1;
+        transition: 0.2s;
+    }
+    .tarif h3 {
+        font-size: 23px;
+        padding-top: 17px;
+        height: 75px;
+    }
+    .tarif p.cost {
+        font-size: 18px;
+    }
+    .btn-enroll a, .btn-buy a {
+        font-size: 13px;
+        line-height: 30px;
+        height: 30px;
+        width: 114px;
+    }
+    .dop-cost-block h4 {
+        font-size: 12px;
+    }
+    .discount p {
+        font-size: 11px;
+    }
+    .block-contacts {
+        width: 66%;
+    }
+    .first-main-bg {
+        max-height: 330px;
+    }
+    .date-first p {
+        font-size: 19px;
+        padding: 14px 39px;
+    }
+    .date-first p span {
+        height: 6px;
+        width: 6px;
+        top: -2px;
+    }
+    .popup-wrap {
+        padding: 55px 26px 50px;
+    }
+    .grafic-table tr:first-child td:not(:first-child) {
+        font-size: 20px;
+    }
+    .grafic-table tr td {
+        font-size: 16px;
+        height: 40px;
+    }
+    #sec3 .slick-prev, #sec3 .slick-next{
+        display: none !important;
+    }
+    .partners-descr {
+        max-width: 100%;
+        padding-top: 25px;
+        padding-bottom: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+        box-sizing: border-box;
+    }
+    .partners-logo-wrap{
+        padding: 0 15px;
+    }
+    .partners-logo {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .faq-list {
+        width: 320px;
+    }
+    .faq-list-block {
+        left: -10px;
+    }
+    .faq-description {
+        padding: 30px 0px 30px 17px;
+        position: relative;
+        left: -10px;
+    }
+    .partners-logo-block {
+        width: 16%;
+    }
+}
+@media only screen and (max-width : 500px){
+    .partners-logo-block {
+        width: 30%;
+    }
+    .popup-wrap h3 {
+        font-size: 20px;
+    }
+    .grafic-table tr:first-child td:not(:first-child) {
+        font-size: 16px;
+    }
+    .grafic-table tr td:first-child {
+        padding-left: 42px;
+        box-sizing: border-box;
+    }
+    .grafic-table {
+        padding-top: 10px;
+    }
+    .popup-wrap {
+        padding: 55px 20px 45px;
+    }
+    ul li:before, ul li:before {
+        content: "-";
+        position: absolute;
+        left: -10px;
+    }
+    .tarif-popup-forms-block-wrap h4 {
+        font-size: 16px;
+    }
+    .tarif-popup-forms-block {
+        padding-top: 13px;
+        padding-bottom: 20px;
+    }
+    .forms-organizations a {
+        font-size: 12px;
+        padding: 0 10px 3px;
+    }
+    .btn-form {
+        padding-top: 25px;
+    }
+    form button {
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 34px;
+        height: 34px;
+        padding: 0px 19px;
+    }
+    .reply-field .label-block {
+        font-size: 13px;
+    }
+    .partners-logo {
+        justify-content: space-around;
+    }
+    .who-list-block:before,
+    .what-list-block:before {
+        content: '';
+        position: absolute;
+        background-image: url(../img/what_check.png);
+        background-size: cover;
+        left: -16px;
+        top: 15px;
+        width: 40px;
+        height: 40px;
+    }
+    .who-list-block,
+    .what-list-block {
+        padding-left: 30px;
+    }
+    .who-list-block h3,
+    .what-list-block h3 {
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+    .who-list-block p,
+    .what-list-block p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .who-list-wrap,
+    .what-list-wrap {
+        padding-top: 20px;
+    }
+    .client-popup-about h2 {
+        font-size: 26px;
+    }
+    .popup-wrap.client-popup h3 {
+        font-size: 18px;
+        padding: 14px 0;
+    }
+    .client-popup-list li {
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    #sec9 .wrap{
+        height: auto;
+    }
+    .who-list-block:before{
+        left: -28px !important;
+    }
+
+}
+@media only screen and (max-width : 480px){
+    .dop-descr-first {
+        display: block;
+    }
+    .first-main-content {
+        padding: 0px;
+    }
+    .btn-enroll{
+        text-align: right;
+        float: right;
+        padding-top: 25px;
+    }
+    .dop-descr {
+        max-width: 100%;
+        width: 100%;
+    }
+    .date-first p {
+        font-size: 16px;
+        padding: 14px 39px;
+        position: static;
+    }
+    h2 {
+        font-size: 21px;
+    }
+    .dop-descr p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .kate-list ul li {
+        line-height: 19px;
+        font-size: 13px;
+    }
+    #slider-list {
+        padding-top: 15px;
+    }
+    .tab-list-name {
+        width: 100%;
+        height: 26px;
+    }
+    .tab-list-name h3 {
+        font-size: 14px;
+    }
+    .tab-list-descr h4, .tab-list-descr p {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .tab-list-descr ul li {
+        line-height: 20px;
+        font-size: 13px;
+    }
+    .tab-list-descr {
+        padding-left: 27px;
+        padding-right: 5px;
+    }
+    .tarif-3,
+    .tarif-2,
+    .tarif-1 {
+        background-position: 0px -5px;
+    }
+    .tarif h3 {
+        font-size: 18px;
+        padding-top: 17px;
+        height: 65px;
+    }
+    .btn-buy {
+        padding-top: 24px;
+        padding-bottom: 17px;
+    }
+    .tarif p.cost {
+        font-size: 16px;
+    }
+    .discount-descr,
+    .dop-cost-grafic-img{
+        display: none;
+    }
+    .discount {
+        background-image: none;
+    }
+    .grafic-descr{
+        width: 100%;
+        text-align: center;
+    }
+    .dop-cost .btn-enroll {
+        padding-top: 10px;
+        float: none;
+    }
+    .btn-enroll a, .btn-buy a {
+        margin: 0 auto;
+    }
+    .btn-enroll a, .btn-buy a, .btn-client a {
+        font-size: 12px;
+        line-height: 28px;
+        height: 28px;
+        width: 110px;
+    }
+    .dop-cost-block {
+        padding: 5px 10px;
+    }
+    .discount p {
+        padding-top: 11px;
+    }
+    #sec11 .section-content.flex{
+        flex-direction: column-reverse;
+        padding: 0;
+    }
+    .block-contacts{
+        padding: 60px 0 40px;
+    }
+    .map-wrap {
+        padding-right: 0px;
+    }
+    .map-wrap{
+        height: 500px;
+    }
+    .tarif-popup-name-block-wrap{
+       min-height: 50px;
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        box-shadow: none;
+        padding-bottom: 0;
+    }
+    .tarif-popup-wrap {
+        min-height: 300px;
+        flex-direction: column;
+    }
+    .tarif-popup-name-block h3{
+        font-size: 22px !important;
+    }
+    .tarif-popup-questions {
+        position: static;
+        padding-top: 15px;
+        padding-left: 10px;
+    }
+    .tarif-popup-forms-block-wrap {
+        padding: 20px 10px;
+        padding-right: 10px;
+    }
+    .tarif-popup-forms-block-wrap {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 30px 10px;
+        padding-right: 10px;
+        box-sizing: border-box;
+    }
+    .faq-list {
+        width: 95%;
+    }
+
+}
+
+@media only screen and (max-width : 420px){
+    .tarif p.cost {
+        font-size: 14px;
+    }
+    .grafic-descr .btn-enroll a{
+        font-size: 11px;
+        line-height: 26px;
+        height: 26px;
+        width: 100px;
+    }
+    .discount p {
+        font-size: 10px;
+    }
+    .tarif h3 {
+        font-size: 15px;
+        padding-top: 14px;
+        height: 60px;
+    }
+    .dop-cost-block h4 {
+        font-size: 10px;
+    }
+    .btn-buy {
+        padding-top: 14px;
+        padding-bottom: 17px;
+    }
+    .tarif-3, .tarif-2, .tarif-1 {
+        background-position: 0px 0px;
+    }
+    .btn-buy a {
+        width: 90%;
+        font-size: 10px;
+        line-height: 24px;
+        height: 24px;
+    }
+    .discount {
+        width: 100%;
+    }
+    .socials {
+        display: none;
+    }
+    .wrap {
+        min-height: 400px;
+    }
+    .popup-wrap h3 {
+        font-size: 16px;
+    }
+    .grafic-table tr td:first-child {
+        padding-left: 10px;
+    }
+    .grafic-table tr td {
+        font-size: 13px;
+        height: 32px;
+    }
+    .tarif-popup-forms-block-wrap {
+        padding: 45px 10px;
+        padding-right: 10px;
+    }
+    .video-popup img {
+        width: 70px;
+        height: auto;
+    }
+    #sec2 .block-r {
+        max-width: 90%;
+    }
+    .kate-list ul {
+        padding-left: 10px;
+    }
+    .video-popup span {
+        font-size: 11px;
+    }
+    #sec2 .block-l {
+        width: 75%;
+    }
+    .first-main-bg {
+        max-height: 340px;
+    }
+    #sec1 .section-content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0px 10px;
+    }
+    .date-first {
+        text-align: center;
+    }
+    .client-slide-text {
+        padding-left: 25px;
+    }
+    .btn-client{
+        left: 25px;
+    }
+
+
+}
+@media only screen and (max-width : 380px){
+    .tab-list-name h3 {
+        font-size: 12px;
+    }
+    .client-slide-descr {
+        max-width: 300px;
+    }
+    .tab-list-name {
+        height: 20px;
+    }
+    .tab-list-name h3 {
+        font-size: 12px;
+    }
+    .tab-list-name p {
+        font-size: 12px;
+    }
+    .tab-list-name p,
+    .tab-list-name h3{
+        position: relative;
+        top: 1px;
+    }
+    .tab-list-name.arrow span {
+        width: 30px;
+    }
+    .tab-list-descr ul li {
+        line-height: 18px;
+        font-size: 12px;
+    }
+    .tab-list-descr h4, .tab-list-descr p {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .tarif {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .dop-cost-block,
+    .tarif-block {
+        width: 70%;
+    }
+    .dop-cost {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .tarif-3, .tarif-2, .tarif-1 {
+        background-position: 0px -17px;
+        margin-bottom: 15px;
+    }
+    .tarif h3 {
+        font-size: 23px;
+        padding-top: 20px;
+        height: 80px;
+    }
+    .tarif p.cost {
+        font-size: 19px;
+    }
+    .btn-buy a {
+        width: 70%;
+        font-size: 13px;
+        line-height: 30px;
+        height: 30px;
+    }
+    #sec6 .wrap{
+        height: auto;
+    }
+    .section-content-sec6 {
+        padding: 30px 20px;
+        box-sizing: border-box;
+    }
+    .dop-cost-block h4 {
+        font-size: 13px;
+    }
+    .grafic-descr {
+        padding: 13px 0;
+    }
+    .discount {
+        text-align: center;
+        padding: 10px;
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    .discount h4{
+        font-size: 20px;
+    }
+    .discount p {
+        font-size: 12px;
+    }
+    .dop-cost-block{
+        margin-top: 20px;
+    }
+    .oplata p {
+        font-size: 11px;
+    }
+    .wrap {
+        padding: 0;
+    }
+    .mob-list{
+        height: 38px !important;
+    }
+    .grafic-table tr:first-child td:not(:first-child) {
+        font-size: 14px;
+    }
+    .client-slide-descr p {
+        line-height: 22px;
+        padding-bottom: 0;
+    }
+    .client-slide-name {
+        padding-bottom: 20px;
+    }
+    .client-slide-text {
+        min-height: 320px;
+    }
+    .partners-logo-block {
+        margin: 10px;
+        width: 40%;
+    }
+    .partners-descr p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .faq-list-block p {
+        padding-left: 15px;
+    }
+    .faq-list-block {
+        margin: 10px 0;
+    }
+    .faq-list-block span > span {
+        width: 5px;
+    }
+    .faq-description-block p {
+        font-size: 16px;
+        line-height: 24px;
+        padding-left: 0px;
+    }
+    .faq-descr-block {
+        padding-bottom: 25px;
+    }
+    .faq-descr-block h2{
+        text-align: center;
+    }
+    .section-content-seс8 {
+        min-height: 436px;
+        padding-top: 40px;
+    }
+    .menu-list li {
+        margin: 15px 0;
+    }
+    .menu-list span span {
+        width: 20px;
+        margin: 4px 10px;
+    }
+    .menu-list span {
+        font-size: 17px;
+        line-height: 17px;
+    }
+    .menu-list a {
+        font-size: 18px;
+    }
+
+
+}
+
